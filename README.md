@@ -1,4 +1,4 @@
-# 🚀 Week 1 Code Challenge – JavaScript Practice
+# Week 1 Code Challenge – JavaScript Practice
 
 Welcome to my JavaScript practice repository for **Week 1 Code Challenge**. This repository contains three beginner-friendly projects aimed at improving fundamental JavaScript skills through real-world Kenyan use cases.
 
